@@ -12,10 +12,9 @@ Overview of the Project:
 
 PORTFOLIO WEBSITE REDESIGN
 
-                    Redesign your personal portfolio website to showcase your work and skills in a visually
-                    appealing and user-friendly manner. Focus on improving the layout, navigation, and
-                    visual design to create a professional and engaging user experience.
-
+                    Redesign an existing e-commerce website to enhance the shopping experience for users.
+                    Focus on optimizing product discovery, checkout process, and product presentation to
+                     improve conversion rates and user satisfaction.
 
 Meesho website redesign
 
